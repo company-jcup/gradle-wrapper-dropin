@@ -1,0 +1,6 @@
+== About
+If you have any project with an build.gradle, but without a gradle wrapper, you can use this as a dropin:
+
+NOTE: just download the files as zip from github, extract and copy all files here inside root folder of
+      the target project and you are done. It will have automatically
+      gradle 7.0 as wrapper and also as build tool dependency. For example call `./gradlew tasks`
